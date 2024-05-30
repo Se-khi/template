@@ -1,0 +1,6 @@
+# 屏蔽不需要检测的文件或目录
+.DS_Store
+node_modules
+dist
+build
+public
